@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fmarcoux96
-- 👀 I’m interested in programming, food, music, Web design and a good wine appreciator.
-- 🌱 I’m currently learning how to run a business for 4 years now.
+- 👀 I’m a programmer. Also food, music and a wine appreciator.
 - 📫 How to reach me is simple: www.conceptsweb.ca
 
 <!---
